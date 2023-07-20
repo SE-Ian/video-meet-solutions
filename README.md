@@ -1,8 +1,8 @@
-# 🚀Code Editors for your online application
+# 🚀Video meet solution for your online application
 
-_View Live [here](https://code-editorz.vercel.app/)_
+_View Live [here](https://video-meet-solutions.vercel.app/)_
 
-This repo gives a preview of some of the popular embeddable code editors for your platform.
+This repo gives a preview of some of the popular embeddable video meet solutions for your platform.
 
 # Getting Started
 
